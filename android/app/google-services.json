@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50881467586",
+    "firebase_url": "https://projetakip-50f2f.firebaseio.com",
+    "project_id": "projetakip-50f2f",
+    "storage_bucket": "projetakip-50f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50881467586:android:9029896684933ea1bc975b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proje_takip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50881467586-g5b54oq7cd462b2g2fsunpf9s81o1re1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FTFqTFzuOn3wEIrwWDYTs6BoBL4yzWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50881467586-g5b54oq7cd462b2g2fsunpf9s81o1re1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
